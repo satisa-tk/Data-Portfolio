@@ -2,7 +2,7 @@
 
 This project is about data return in year 2022 - August 2023 of Ecommerce company 
 
-![image](https://github.com/user-attachments/assets/88d45ccb-5f89-47bf-88f6-f58e3ad0a75f)
+  ![image](https://github.com/user-attachments/assets/88d45ccb-5f89-47bf-88f6-f58e3ad0a75f)
 
 ## Goal
 To focus on which product most return, rejected customer and answer why did it happen? How to increasing sales revenue and gain more customer loyalty.
@@ -10,7 +10,7 @@ To focus on which product most return, rejected customer and answer why did it h
 ## Method 
 - Collect data of sales, customer return from database then cleansing data in google sheets, Load and Transform data in Power BI to recheck, correct type of data.
 
-![image](https://github.com/user-attachments/assets/52bb243a-f855-4233-9477-6ad5d421228b)
+  ![image](https://github.com/user-attachments/assets/52bb243a-f855-4233-9477-6ad5d421228b)
 
 
 - Create measure or column to prep data for calculation and ready build dashdoard
@@ -23,7 +23,7 @@ To focus on which product most return, rejected customer and answer why did it h
 
 - Filter rejected customer by week to aviod lot of transportation cost.
 
-![image](https://github.com/user-attachments/assets/50f1e4d9-4d7d-4ce8-afc0-8d9baaeecf18)
+  ![image](https://github.com/user-attachments/assets/50f1e4d9-4d7d-4ce8-afc0-8d9baaeecf18)
 
 
 ## Insight and Solution from answer why question 
@@ -43,7 +43,7 @@ To focus on which product most return, rejected customer and answer why did it h
 
 This project show sales data in month 
 
-![image](https://github.com/user-attachments/assets/7727091a-6ac4-40d9-9c25-3a19cd293c00)
+  ![image](https://github.com/user-attachments/assets/7727091a-6ac4-40d9-9c25-3a19cd293c00)
 
 
 ## Goal
@@ -72,7 +72,7 @@ To focus on bestseller product and channel How to increasing sales revenue and g
 
 This project is about data of transportation cost 
 
-![image](https://github.com/user-attachments/assets/96546950-737e-48bd-858d-7ded47b22c55)
+  ![image](https://github.com/user-attachments/assets/96546950-737e-48bd-858d-7ded47b22c55)
 
 ## Goal
 To focus on delivery cost and find solutions to decrease the cost and get more profit.
