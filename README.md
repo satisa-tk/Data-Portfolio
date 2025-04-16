@@ -2,7 +2,7 @@
 
 This project is about data return in year 2022 - August 2023 of Ecommerce company 
 
-![image](https://github.com/user-attachments/assets/7973abef-9313-4ef5-9920-911d86830dce)
+![image](https://github.com/user-attachments/assets/4c9b24b9-8799-4dc2-b371-cec41a0045da)
 
 ## Goal
 To focus on which product most return, rejected customer and answer why did it happen? How to increasing sales revenue and gain more customer loyalty.
@@ -10,7 +10,7 @@ To focus on which product most return, rejected customer and answer why did it h
 ## Method 
 - Collect data of sales, customer return from database then cleansing data in google sheets, Load and Transform data in Power BI to recheck, correct type of data.
 
-![image](https://github.com/user-attachments/assets/3545b45a-686a-49a8-9c2e-881ddb2077f4)
+![image](https://github.com/user-attachments/assets/b06eee53-acef-441d-97c6-2a0254122bce)
 
 - Create measure or column to prep data for calculation and ready build dashdoard
 
@@ -22,9 +22,7 @@ To focus on which product most return, rejected customer and answer why did it h
 
 - Filter rejected customer by week to aviod lot of transportation cost.
 
-![image](https://github.com/user-attachments/assets/fd9bbaa5-81ea-48e4-a77b-f527904b2bd7)
-
-
+![image](https://github.com/user-attachments/assets/3d02540a-67d6-4fe3-8185-c5f148771512)
 
 ## Insight and Solution from answer why question 
 
