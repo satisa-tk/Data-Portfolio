@@ -88,4 +88,4 @@ To focus on delivery cost and find solutions to decrease the cost and get more p
 - Delivery will charge of COD commission as usual but if many order will lot of cost. This dashborad show that most of customer choose COD payment So the company should pay attention how to change customer behavior to use more credit card instead of COD payment.
 - Delivery cost depends on weight and distance Company charge delivery cost 200 bath from customer but if product is to heavy delivery cost absorb by company is more and don't have profit, So what is solution to sell it and charge delivery cost more from customer or choose another product.
 
-[center] ![image](https://github.com/user-attachments/assets/759c0d03-41ed-4705-a107-97f5587c0634)
+  ![image](https://github.com/user-attachments/assets/759c0d03-41ed-4705-a107-97f5587c0634)
