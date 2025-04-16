@@ -54,8 +54,6 @@ To focus on bestseller product and channel How to increasing sales revenue and g
 
 - Create measure and column to prep data for calculate gross profit (use % margin x price to find net profit each sales)
 
-  ![image](https://github.com/user-attachments/assets/6f9c8800-1941-47ec-a4a9-501d377f48b7)
-
 - Show trend of sales by day with average line
 
   ![image](https://github.com/user-attachments/assets/934d85ce-d956-4021-a0d5-24b64e40231f)
@@ -90,4 +88,4 @@ To focus on delivery cost and find solutions to decrease the cost and get more p
 - Delivery will charge of COD commission as usual but if many order will lot of cost. This dashborad show that most of customer choose COD payment So the company should pay attention how to change customer behavior to use more credit card instead of COD payment.
 - Delivery cost depends on weight and distance Company charge delivery cost 200 bath from customer but if product is to heavy delivery cost absorb by company is more and don't have profit, So what is solution to sell it and charge delivery cost more from customer or choose another product.
 
- ![image](https://github.com/user-attachments/assets/759c0d03-41ed-4705-a107-97f5587c0634)
+[center] ![image](https://github.com/user-attachments/assets/759c0d03-41ed-4705-a107-97f5587c0634)
