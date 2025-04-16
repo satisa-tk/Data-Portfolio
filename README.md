@@ -60,7 +60,7 @@ To focus on bestseller product and channel How to increasing sales revenue and g
 
 - Show bestseller of product and channel type are the most of purchase and use water fall graph to see increase and decrease sales by channel. 
 
-## Insight
+## Insights and Recommendations
 - TV channel isn't the best channel same as previously (5 ranking) , ONE31 TOP 1 of purchase but the boardcasting cost too expensive. So OB sale and internet is the best way too increase sales because it don't have hidden cost if the business need more profit.
 
 - Bestseller of product it doesn't mean more profit like Houseband product so we can upsell more houseband or R&D new product to gain more profit.
@@ -84,7 +84,7 @@ To focus on delivery cost and find solutions to decrease the cost and get more p
 
 - Build dashboard to show insight of business requirements in this case I want to show Total delivery amount, Net profit and Total Bills compare by delivery type
 
-## Insight
+## Insights and Recommendations
 - Delivery will charge of COD commission as usual but if many order will lot of cost. This dashborad show that most of customer choose COD payment So the company should pay attention how to change customer behavior to use more credit card instead of COD payment.
 - Delivery cost depends on weight and distance Company charge delivery cost 200 bath from customer but if product is to heavy delivery cost absorb by company is more and don't have profit, So what is solution to sell it and charge delivery cost more from customer or choose another product.
 
