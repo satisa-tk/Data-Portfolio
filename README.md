@@ -36,3 +36,35 @@ To focus on which product most return, rejected customer and answer why did it h
 - Rejected customer : Most of data return is Auto Return if customer reject often notify the relevant team to block customer ID or call customer what it happen? to save cost of transport and operation.
 
 - Got solutions to decrease return ratio.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Sales Report June 2024
+
+This project show sales data in month 
+
+![image](https://github.com/user-attachments/assets/7727091a-6ac4-40d9-9c25-3a19cd293c00)
+
+
+## Goal
+To focus on bestseller product and channel How to increasing sales revenue and gain more profit.
+
+## Method 
+- Collect data of sales from database then cleansing data in google sheets, Load and Transform data in Power BI to recheck, correct type of data.
+
+- Create measure and column to prep data for calculate gross profit (use % margin x price to find net profit each sales)
+
+  ![image](https://github.com/user-attachments/assets/6f9c8800-1941-47ec-a4a9-501d377f48b7)
+
+- Show trend of sales by day with average line
+
+  ![image](https://github.com/user-attachments/assets/934d85ce-d956-4021-a0d5-24b64e40231f)
+
+- Show bestseller of product and channel type are the most of purchase and use water fall graph to see increase and decrease sales by channel. 
+
+## Insight
+- TV channel isn't the best channel same as previously (5 ranking) , ONE31 TOP 1 of purchase but the boardcasting cost too expensive.
+
+So OB sale and internet is the best way too increase sales because it don't have hidden cost if the business need more profit.
+
+- Bestseller of product it doesn't mean more profit like Houseband product so we can upsell more houseband or R&D new product to gain more profit.
