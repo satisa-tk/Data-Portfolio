@@ -1,4 +1,4 @@
-# Return Report 2022-2023
+# 1. Return Report 2022-2023
 
 This project is about data return in year 2022 - August 2023 of Ecommerce company 
 
@@ -39,7 +39,7 @@ To focus on which product most return, rejected customer and answer why did it h
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Sales Report June 2024
+# 2. Sales Report June 2024
 
 This project show sales data in month 
 
@@ -68,7 +68,7 @@ To focus on bestseller product and channel How to increasing sales revenue and g
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Transportation cost
+# 3. Transportation cost
 
 This project is about data of transportation cost 
 
