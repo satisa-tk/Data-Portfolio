@@ -1,8 +1,8 @@
 # 1. Return Report 2022-2023
 
-This project is about data return in year 2022 - August 2023 of Ecommerce company 
+This project is about data return in year 2022 - August 2023 of Ecommerce Company 
 
-  ![image](https://github.com/user-attachments/assets/88d45ccb-5f89-47bf-88f6-f58e3ad0a75f)
+  ![image](https://github.com/user-attachments/assets/1042df0d-c82f-425e-89f4-5e8a4f01ce75)
 
 ## Goal
 To focus on which product most return, rejected customer and answer why did it happen? How to increasing sales revenue and gain more customer loyalty.
@@ -21,9 +21,9 @@ To focus on which product most return, rejected customer and answer why did it h
 
 - Top 5 of category and delivery most return compare with last year to find the reason why this category have most return?
 
-- Filter rejected customer by week to aviod lot of transportation cost.
+- Filter rejected customer by week to aviod lot of transportation cost (In this case show all customer rejected year 2022- Aug 2023) .
 
-  ![image](https://github.com/user-attachments/assets/50f1e4d9-4d7d-4ce8-afc0-8d9baaeecf18)
+  ![image](https://github.com/user-attachments/assets/c9148fc7-a4d6-4534-bcd4-a69111aee511)
 
 
 ## Insight and Solution from answer why question 
@@ -43,8 +43,7 @@ To focus on which product most return, rejected customer and answer why did it h
 
 This project show sales data in month 
 
-  ![image](https://github.com/user-attachments/assets/7727091a-6ac4-40d9-9c25-3a19cd293c00)
-
+  ![image](https://github.com/user-attachments/assets/25a2ca25-0c2b-4c21-99e7-6370a7da8c21)
 
 ## Goal
 To focus on bestseller product and channel How to increasing sales revenue and gain more profit.
@@ -56,14 +55,14 @@ To focus on bestseller product and channel How to increasing sales revenue and g
 
 - Show trend of sales by day with average line
 
-  ![image](https://github.com/user-attachments/assets/934d85ce-d956-4021-a0d5-24b64e40231f)
+  ![image](https://github.com/user-attachments/assets/f4fd620e-be98-4ae2-ab84-43c0cf2492ce)
 
 - Show bestseller of product and channel type are the most of purchase and use water fall graph to see increase and decrease sales by channel. 
 
 ## Insights and Recommendations
-- TV channel isn't the best channel same as previously (5 ranking) , ONE31 TOP 1 of purchase but the boardcasting cost too expensive. So OB sale and internet is the best way too increase sales because it don't have hidden cost if the business need more profit.
+- TV channel isn't the best channel same as previously (5 ranking) , Channel is 1 TOP 1 of purchase but the boardcasting cost too expensive. So telesales and internet is the best way too increase sales because it don't have hidden cost if the business need more profit.
 
-- Bestseller of product it doesn't mean more profit like Houseband product so we can upsell more houseband or R&D new product to gain more profit.
+- Bestseller of product it doesn't mean more profit like houseband product so we can upsell more houseband or R&D new product to increase net profit.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -72,8 +71,7 @@ To focus on bestseller product and channel How to increasing sales revenue and g
 
 This project is about data of transportation cost 
 
-  ![image](https://github.com/user-attachments/assets/d01d94a8-ec61-4f77-b18d-d143dfbd4b98)
-
+  ![image](https://github.com/user-attachments/assets/a11f4b06-db37-4bfb-8af5-ae41fbcc24e7)
 
 ## Goal
 To focus on delivery cost and find solutions to decrease the cost and get more profit.
@@ -87,7 +85,8 @@ To focus on delivery cost and find solutions to decrease the cost and get more p
 
 ## Insights and Recommendations
 - Delivery will charge of COD commission as usual but if many order will lot of cost. This dashborad show that most of customer choose COD payment So the company should pay attention how to change customer behavior to use more credit card instead of COD payment.
-- Delivery cost depends on weight and distance Company charge delivery cost 200 bath from customer but if product is to heavy delivery cost absorb by company is more and don't have profit, So what is solution to sell it and charge delivery cost more from customer or choose another product.
+- Delivery cost depends on weight and distance Company charge delivery cost 200 bath or sometimes free delivery but if product is to heavy delivery cost absorb by company is more and don't have profit, So what is solution to sell it and charge delivery cost more from customer or choose another product.
 
-  ![image](https://github.com/user-attachments/assets/c42a95a4-38d9-491b-9fde-722e97d1b94b)
+  ![image](https://github.com/user-attachments/assets/6cf1824c-0421-4eeb-a253-9a33695f3b40)
+
 
