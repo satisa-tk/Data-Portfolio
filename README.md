@@ -72,7 +72,8 @@ To focus on bestseller product and channel How to increasing sales revenue and g
 
 This project is about data of transportation cost 
 
-  ![image](https://github.com/user-attachments/assets/96546950-737e-48bd-858d-7ded47b22c55)
+  ![image](https://github.com/user-attachments/assets/d01d94a8-ec61-4f77-b18d-d143dfbd4b98)
+
 
 ## Goal
 To focus on delivery cost and find solutions to decrease the cost and get more profit.
@@ -88,4 +89,5 @@ To focus on delivery cost and find solutions to decrease the cost and get more p
 - Delivery will charge of COD commission as usual but if many order will lot of cost. This dashborad show that most of customer choose COD payment So the company should pay attention how to change customer behavior to use more credit card instead of COD payment.
 - Delivery cost depends on weight and distance Company charge delivery cost 200 bath from customer but if product is to heavy delivery cost absorb by company is more and don't have profit, So what is solution to sell it and charge delivery cost more from customer or choose another product.
 
-  ![image](https://github.com/user-attachments/assets/759c0d03-41ed-4705-a107-97f5587c0634)
+  ![image](https://github.com/user-attachments/assets/c42a95a4-38d9-491b-9fde-722e97d1b94b)
+
