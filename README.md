@@ -2,7 +2,7 @@
 
 This project is about data return in year 2022 - August 2023 of Ecommerce Company 
 
-  ![image](https://github.com/user-attachments/assets/1042df0d-c82f-425e-89f4-5e8a4f01ce75)
+  ![image](https://github.com/user-attachments/assets/c3a02058-4907-4ec1-9678-ea0bf6c1a0f1)
 
 ## Goal
 To focus on which product most return, rejected customer and answer why did it happen? How to increasing sales revenue and gain more customer loyalty.
@@ -60,10 +60,9 @@ To focus on bestseller product and channel How to increasing sales revenue and g
 - Show bestseller of product and channel type are the most of purchase and use water fall graph to see increase and decrease sales by channel. 
 
 ## Insights and Recommendations
-- TV channel isn't the best channel same as previously (5 ranking) , Channel is 1 TOP 1 of purchase but the boardcasting cost too expensive. So telesales and internet is the best way too increase sales because it don't have hidden cost if the business need more profit.
+- TV channel isn't the best channel same as previously (5 ranking) , Channel 1 is No.1 of purchase but the boardcasting cost too expensive. So telesales and internet is the best way too increase sales because it don't have hidden cost if the business need more profit.
 
 - Bestseller of product it doesn't mean more profit like houseband product so we can upsell more houseband or R&D new product to increase net profit.
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
