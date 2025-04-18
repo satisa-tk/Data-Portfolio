@@ -2,7 +2,7 @@
 
 This project is about data return in year 2022 - August 2023 of Ecommerce Company 
 
-  ![image](https://github.com/user-attachments/assets/c3a02058-4907-4ec1-9678-ea0bf6c1a0f1)
+  ![image](https://github.com/user-attachments/assets/6b43bc7b-a89b-46e4-8768-c1478026a09d)
 
 ## Goal
 To focus on which product most return, rejected customer and answer why did it happen? How to increasing sales revenue and gain more customer loyalty.
