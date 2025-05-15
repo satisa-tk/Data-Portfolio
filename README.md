@@ -23,7 +23,8 @@ To focus on which product most return, rejected customer and answer why did it h
 
 - Filter rejected customer by week to aviod lot of transportation cost (In this case show all customer rejected year 2022- Aug 2023) .
 
-  ![image](https://github.com/user-attachments/assets/c9148fc7-a4d6-4534-bcd4-a69111aee511)
+  ![image](https://github.com/user-attachments/assets/a63f515e-b89e-4bec-8a39-feaba7d45402)
+
 
 
 ## Insight and Solution from answer why question 
