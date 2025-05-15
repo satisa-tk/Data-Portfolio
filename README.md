@@ -60,6 +60,9 @@ To focus on bestseller product and channel How to increasing sales revenue and g
 
 - Show bestseller of product and channel type are the most of purchase and use water fall graph to see increase and decrease sales by channel. 
 
+![image](https://github.com/user-attachments/assets/099184d9-3617-41f2-90d5-0a9647c54c1d)
+
+
 ## Insights and Recommendations
 - TV channel isn't the best channel same as previously (5 ranking) , Channel 1 is No.1 of purchase but the boardcasting cost too expensive. So telesales and internet is the best way too increase sales because it don't have hidden cost if the business need more profit.
 
